@@ -23,7 +23,7 @@ body {
     height: 90vh;
     background: url('https://images.unsplash.com/photo-1503376780353-7e6692767b70') no-repeat center;
     background-size: cover;
-    color: white;
+    color: black;
     text-align: center;
     padding-top: 150px;
 }
